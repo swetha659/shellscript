@@ -1,0 +1,9 @@
+10.10.23.13:https:201:nginx
+10.23.111.11:https:200:redis-master
+10.32.11.44:http:302:redis-slave
+10.23.11.11:ftp:502:redis
+10.32.11.44:https:302:apache
+10.22.11.11:ftp:512:apache2
+10.5.11.55:https:302:memcache
+10:33:22:22:http:200:mysql
+10.22.42.88:https:201:djngo
