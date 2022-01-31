@@ -5,7 +5,7 @@
 #3. If user doesnt exist then created
 #4. Create the user
 #5. Validate user created successfully or not
-
+# 6. Git edit
 #!bin/bash
 read -p "Enter the user name:" v_user
 echo $v_user
